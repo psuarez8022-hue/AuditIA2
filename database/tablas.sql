@@ -1,1 +1,1 @@
-tablas.sql
+database/tablas.sql
