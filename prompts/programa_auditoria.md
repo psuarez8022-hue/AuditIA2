@@ -1,1 +1,1 @@
-prompts/hallazgo.md
+prompts/programa_auditoria.md
