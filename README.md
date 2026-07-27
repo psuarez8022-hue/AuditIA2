@@ -1,45 +1,40 @@
 # AuditIA 2.0
 
-## Proyecto
+## Descripción
 
-Aplicación desarrollada para la asignatura **Aplicaciones de Negocio y Gestión de Riesgos**.
+AuditIA 2.0 es un prototipo desarrollado para la asignatura **Aplicaciones de Negocio y Gestión de Riesgos**.
 
-## Objetivo
-
-Automatizar la generación de documentación de auditoría mediante Inteligencia Artificial Generativa utilizando:
+El proyecto utiliza Inteligencia Artificial Generativa para apoyar la elaboración de documentación de auditoría, integrando:
 
 - Google AI Studio (Gemini)
 - Supabase
 - GitHub
 
-## Funcionalidades
+## Problema
 
-- Generación de programas de auditoría
-- Elaboración de hallazgos
-- Matrices de riesgos
-- Procedimientos
-- Informes ejecutivos
+Los equipos de auditoría invierten una cantidad significativa de tiempo en la elaboración manual de programas de auditoría, matrices de riesgos, hallazgos e informes, afectando la productividad y la estandarización documental.
 
-## Tecnologías
+## Objetivo
 
-- HTML5
-- CSS3
-- JavaScript
+Diseñar un prototipo que apoye la generación automática de documentos de auditoría mediante IA generativa, permitiendo optimizar tiempos y mantener trazabilidad de la información.
+
+## Tecnologías utilizadas
+
 - Google AI Studio
 - Supabase
 - GitHub
 
-## Arquitectura
+## Flujo del proyecto
 
 Auditor
 
 ↓
 
-Formulario Web
+Google AI Studio
 
 ↓
 
-Google Gemini
+Documento generado por IA
 
 ↓
 
@@ -47,7 +42,7 @@ Supabase
 
 ↓
 
-Historial
+Historial de documentos
 
 ## Autora
 
